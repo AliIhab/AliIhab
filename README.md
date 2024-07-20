@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AliIhab
 - 👀 I’m interested in learning how to program
-- 🌱 I’m currently learning mechatronics engineering
+- 🌱 I’m A Mechatronics Engineer and a software tester
 - 💞️ I’m looking to collaborate on any kind of project
 - 📫 How to reach me wp +201118675522
 
